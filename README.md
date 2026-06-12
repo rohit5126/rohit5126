@@ -6,10 +6,10 @@
  
 ## 🔥 About Me
  
-💼 3+ years in Application & Production Support, specializing in incident management and real-time troubleshooting                     
-🔍 Skilled in Linux, log analysis, debugging, and RCA                                           
-⚡ Proven ability to handle high-impact production issues under pressure                                       
-🚀 Currently transitioning into DevOps Engineering, building expertise in CI/CD, automation, and cloud platforms                                
+💼 3+ years in Application & **Production Support**, specializing in **incident management and real-time troubleshooting**                     
+🔍 Skilled in **Linux, log analysis, debugging, and RCA**                                           
+⚡ Proven ability to handle **high-impact production issues under pressure**                                       
+🚀 Currently transitioning into **DevOps Engineering, building expertise in CI/CD, automation, and cloud platforms**                                
  
 ---
  
@@ -158,7 +158,8 @@ To become a DevOps Engineer who can:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-062753241)
-[![Email](https://img.shields.io/badge/Email-rohitrajput5126@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrajput5126@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-rohitrajput5126%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrajput5126@gmail.com)
 
 </div>
  
