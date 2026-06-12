@@ -127,19 +127,19 @@
  
 ## 💻 Projects
  
-🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**
-🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**
-📌 **[Docker & Kubernetes setups]**
-📌 **[Terraform infrastructure]**
+🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**                                    
+🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**                                
+📌 **[Docker & Kubernetes setups]**                                             
+📌 **[Terraform infrastructure]**                                      
 
  
 ---
  
 ## 🧩 My Edge
  
-✔️ Strong production troubleshooting experience
-✔️ Real incident handling background
-✔️ Focus on reliability & stability
+✔️ Strong production troubleshooting experience                                                      
+✔️ Real incident handling background                                                                                         
+✔️ Focus on reliability & stability                                                                                                        
  
 ---
  
