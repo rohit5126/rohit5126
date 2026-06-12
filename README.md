@@ -25,24 +25,24 @@
  
 ### 🖥️ Core & OS
  
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash)
- 
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+</p>
 ---
- 
-### 🚀 DevOps & Automation
- 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge\&logo=github)
- 
----
- 
-### ☁️ Cloud
- 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws)
+
+### **Cloud & DevOps**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
  
 ---
  
@@ -95,9 +95,14 @@ To become a DevOps Engineer who can:
  
 ---
  
-## 🤝 Let’s Connect
- 
-📫 Open to learning, collaboration & opportunities
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohit-kumar-062753241)
+[![Email](https://img.shields.io/badge/Email-rohitrajput5126@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrajput5126@gmail.com)
+
+</div>
  
 ---
  
