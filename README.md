@@ -48,8 +48,10 @@
  
 ### 🧰 Tools & Platforms
  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge\&logo=servicenow)
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40"/> 
+</p>
  
 ---
  
