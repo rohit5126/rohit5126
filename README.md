@@ -129,7 +129,7 @@
  
 🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**                                    
 🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**                                
-📌 **[Docker setups](https://github.com/rohit5126/docker-playground.git)**                                             
+📌 **[Docker Project and cheat sheet](https://github.com/rohit5126/docker-playground.git)**                                             
 📌 **[Terraform infrastructure]**                                      
 
  
