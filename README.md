@@ -130,9 +130,10 @@
 🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**                                    
 🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**                                
 📌 **[Docker Project and cheat sheet](https://github.com/rohit5126/docker-playground.git)**                                             
-📌 **[Terraform infrastructure]**                                      
+📌 **[Terraform infrastructure]**
 
- 
+[![devboard](https://github.com/rohit5126/devboard/actions/workflows/devboard.yml/badge.svg)](https://github.com/rohit5126/devboard/actions/workflows/devboard.yml)
+
 ---
  
 ## 🧩 My Edge
