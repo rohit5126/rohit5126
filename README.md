@@ -130,9 +130,11 @@
 🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**                                    
 🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**                                
 📌 **[Docker Project and cheat sheet](https://github.com/rohit5126/docker-playground.git)**                                             
-📌 **[Terraform infrastructure]**
+📌 **[Github Action CI/CD project ](https://github.com/rohit5126/devboard-CI-CD.git)**
 
-[![devboard](https://github.com/rohit5126/devboard/actions/workflows/devboard.yml/badge.svg)](https://github.com/rohit5126/devboard/actions/workflows/devboard.yml)
+[![main](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/main-pipeline.yml/badge.svg)](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/main-pipeline.yml)
+
+[![pr-pipeline](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/pr-pipeline.yml/badge.svg)](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/pr-pipeline.yml)
 
 ---
  
