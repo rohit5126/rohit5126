@@ -130,7 +130,7 @@
 🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**                                    
 🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**                                
 🚀 **[Docker Project and cheat sheet](https://github.com/rohit5126/docker-playground.git)**                                             
-🚀 **[Github Action CI/CD project ](https://github.com/rohit5126/devboard-CI-CD.git)**                                                                  
+🚀 **[Github Action CI/CD project ](https://github.com/rohit5126/devboard-cicd-secure-delivery.git)**                                                                  
 
 
 [![PR-pipeline-checks](https://github.com/rohit5126/docker-playground/actions/workflows/PR-pipeline.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/PR-pipeline.yml)      [![merge](https://github.com/rohit5126/docker-playground/actions/workflows/merge.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/merge.yml)       [![Devsecops-deploy.yml](https://github.com/rohit5126/docker-playground/actions/workflows/devsecops-CD.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/devsecops-CD.yml)
