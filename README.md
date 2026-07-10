@@ -129,13 +129,14 @@
  
 🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**                                    
 🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**                                
-📌 **[Docker Project and cheat sheet](https://github.com/rohit5126/docker-playground.git)**                                             
-📌 **[Github Action CI/CD project ](https://github.com/rohit5126/devboard-CI-CD.git)**                                                                  
+🚀 **[Docker Project and cheat sheet](https://github.com/rohit5126/docker-playground.git)**                                             
+🚀 **[Github Action CI/CD project ](https://github.com/rohit5126/devboard-CI-CD.git)**                                                                  
+
+
+[![PR-pipeline-checks](https://github.com/rohit5126/docker-playground/actions/workflows/PR-pipeline.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/PR-pipeline.yml)      [![merge](https://github.com/rohit5126/docker-playground/actions/workflows/merge.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/merge.yml)       [![Devsecops-deploy.yml](https://github.com/rohit5126/docker-playground/actions/workflows/devsecops-CD.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/devsecops-CD.yml)
+
+
 📌 **[devboard-kubernetes-stack ](https://github.com/rohit5126/devboard-kubernetes-stack.git)**
-
-[![main](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/main-pipeline.yml/badge.svg)](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/main-pipeline.yml)
-
-[![pr-pipeline](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/pr-pipeline.yml/badge.svg)](https://github.com/rohit5126/devboard-CI-CD/actions/workflows/pr-pipeline.yml)
 
 ---
  
