@@ -6,7 +6,7 @@
  
 ## 🔥 About Me
  
-💼 3+ years in Application & **Production Support**, specializing in **incident management and real-time troubleshooting**                     
+💼 4 years in Application & **Infrastructure Support and devops role**, specializing in **incident management and real-time troubleshooting**                     
 🔍 Skilled in **Linux, log analysis, debugging, and RCA**                                           
 ⚡ Proven ability to handle **high-impact production issues under pressure**                                       
 🚀 Currently transitioning into **DevOps Engineering, building expertise in CI/CD, automation, and cloud platforms**                                
