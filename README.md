@@ -113,7 +113,7 @@
  
 ## 📅 🚀 90 Days DevOps Challenge
  
-🎯 Currently on a mission to become a DevOps Engineer in 90 days
+🎯 Completed 90DaysofDevops challenge
  
 📌 Daily Focus:
  
@@ -127,16 +127,8 @@
  
 ## 💻 Projects
  
-🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/wanderlust.git)**                                    
-🚀 **[Linux & Github Playbook](https://github.com/rohit5126/linux-github-playbook.git)**                                
-🚀 **[Docker Project and cheat sheet](https://github.com/rohit5126/docker-playground.git)**                                             
-🚀 **[Github Action CI/CD project ](https://github.com/rohit5126/devboard-cicd-secure-delivery.git)**                                                                  
-
-
-[![PR-pipeline-checks](https://github.com/rohit5126/docker-playground/actions/workflows/PR-pipeline.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/PR-pipeline.yml)      [![merge](https://github.com/rohit5126/docker-playground/actions/workflows/merge.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/merge.yml)       [![Devsecops-deploy.yml](https://github.com/rohit5126/docker-playground/actions/workflows/devsecops-CD.yml/badge.svg)](https://github.com/rohit5126/docker-playground/actions/workflows/devsecops-CD.yml)
-
-
-📌 **[devboard-kubernetes-stack ](https://github.com/rohit5126/devboard-kubernetes-stack.git)**
+🚀 **[DevOps Hands-on Projects](https://github.com/rohit5126/AI-BankApp-DevOps.git)**                                                                                                         
+🚀 **[Devops helm-gitops project ](https://github.com/rohit5126/Devboard-CI-CD-secure-deployment.git)**                                                                  
 
 ---
  
